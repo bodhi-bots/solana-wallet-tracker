@@ -76,3 +76,5 @@ export SOLANA_RPC_URL="https://mainnet.helius-rpc.com/?api-key=YOUR_KEY"
 ## Custom crypto bots
 
 Need buy alerts for your token, a wallet tracker for your community, or price commands for your group? Get in touch via GitHub.
+
+**Order a custom Telegram group bot on Fiverr:** https://www.fiverr.com/s/RVVE0DL
